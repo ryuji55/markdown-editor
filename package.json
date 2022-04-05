@@ -1,0 +1,11 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryuji55/markdown-editor.git",
+  "author": "Ryuji Takagi",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo 'Hello! package.json'"
+  }
+}
