@@ -10,19 +10,20 @@
     "build": "webpack --mode=production"
   },
   "devDependencies": {
+    "eslint": "^8.12.0",
     "webpack": "5",
-    "webpack-cli": "4"
+    "webpack-cli": "4",
+    "webpack-dev-server": "3"
   },
   "dependencies": {
     "@types/react": "17",
     "@types/react-dom": "17",
     "@types/styled-components": "5",
-    "eslint": "^8.12.0",
     "react": "17",
     "react-dom": "17",
+    "react-markdown": "6",
     "styled-components": "5",
     "ts-loader": "9",
-    "typescript": "4",
-    "webpack-dev-server": "3"
+    "typescript": "4"
   }
 }
